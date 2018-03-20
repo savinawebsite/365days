@@ -1,0 +1,233 @@
+.videoName {
+    margin-bottom: 20px;
+}
+.videoName h1 {
+    letter-spacing: 2px;
+    font-weight: normal;
+    font-size: 15px;
+    color: #555353;
+    line-height: 1.6em;
+    text-transform: none;
+}
+.mobile365Content {
+    max-width: 670px;
+    margin: auto;
+    margin-top: 27px;
+}
+.mobileVideoContent .mobileImages div {
+    margin: 30px 0px 0px 0px;
+}
+.mobileVideoContent .mobileImages div img {
+    width: 100%;
+}
+.mobilePdf {
+    margin-bottom: 30px;
+    max-width: 670px;
+}
+.mobilePdf iframe {
+    width: 100%;
+    max-width: 670px;
+    height: 580px;
+}
+.postPagination {
+    display: block;
+    margin-bottom: 20px;
+}
+.postPagination div:nth-child(1) {
+    float: left;
+}
+.postPagination div:nth-child(2) {
+    float: right;
+}
+.postPagination img {
+    width: 40px;
+    cursor: pointer;
+}
+.media-column-post-video iframe {
+    width: 100%;
+}
+.ui-loader {
+    display: none !important;
+}
+.media-column-post-video {
+    position: relative;
+}
+.media-column-post-video iframe {
+    padding-top: 0%;
+    position: absolute;
+    top: 0;
+    left: 0;
+    height: 100%;
+    width: 100%;
+}
+@media screen and (max-width: 740px) {
+    .main-content {
+        padding: 0px;
+    }
+    #main {
+        padding: 0px !important;
+    }
+    .videoName {
+        margin-left: 20px;
+    }
+    .login_form_365_day_top_div_loggedIn p {
+        font-size: 14px;
+    }
+    .number {
+        font-size: 16px;
+    }
+}
+.mobile_current_day {
+    margin-left: 10px;
+    margin-bottom: 6px;
+}
+.mobile_current_day div {
+    font-family: Blenny_Black;
+    -webkit-text-stroke: 1px black;
+    color: white;
+    text-shadow: 0px 1px 0 #000000, 0px -1px 0 #000000, 0px 0px 0 #000000, 0px 1px 0 #000000, 0px 0px 0 #000000;
+    font-size: 25px;
+    text-align: left;
+}
+.mobile_current_day div span {
+    color: #ce7474;
+}
+.unlockMobilDay {
+    text-align: center;
+}
+.unlockMobilDay p {
+    color: #3b3b3b;
+    font-size: 20px;
+    font-family: Lekton_bold;
+    display: inline-block;
+}
+.unlockMobilDay span {
+    font-family: Lekton_bold;
+    color: #e67525;
+    font-size: 20px;
+}
+@media screen and (max-width: 600px) {
+    .login_form_365_day_top_div_loggedIn {
+        margin-left: 20px;
+    }
+    .btn {
+        margin-right: 2%;
+        margin-left: 10px;
+        float: right;
+        margin-top: -4px;
+        padding: 5px 18px;
+        font-size: 14px;
+    }
+}
+.bx-controls-direction {
+    display: none;
+}
+.bx-default-pager {
+    display: none;
+}
+.mobileVideoContent .bx-wrapper {
+    -webkit-box-shadow: none;
+    box-shadow: none;
+}
+.bx_posts {
+    border-top: 1px solid;
+    box-shadow: 0px -4px 18px 0px;
+    padding-top: 70px;
+}
+.bxsliderDays {
+    display: flex;
+    flex-flow: column-reverse;
+}
+/*@media (orientation: portrait) {
+
+  .scrollTopImages{
+    background-color: green;
+  }
+}
+
+
+@media (orientation: landscape) {
+
+  .scrollTopImages{
+
+    top: 50%;
+  }
+}*/
+/* Warning Form */
+.warningMessage {
+    /*   display: none; */
+    text-align: left;
+    position: fixed;
+    z-index: 9999;
+    background: rgba(117, 114, 114, 0.68);
+    top: 0;
+    left: 0;
+    right: 0;
+    bottom: 0;
+    height: 100%;
+}
+.warningMessage #warningMessageForm {
+    margin: auto;
+    background: white;
+    padding: 20px;
+    border-radius: 5px;
+    position: fixed;
+    transform: translate(-50%, -50%);
+    top: 10%;
+    left: 50%;
+    width: 100%;
+    max-width: 500px;
+    box-shadow: 0px 1px 18px 14px #e8e8e8;
+    border: 1px solid #8cb5d5;
+}
+.warningMessage #warningMessageForm h1 {
+    color: #8cb5d5;
+    font-family: 'industryInc_base';
+    font-weight: 100;
+}
+.warningMessage #warningMessageForm p {
+    font-size: 14px;
+    font-family: lekton, sans-serif;
+}
+.warningMessage #warningMessageForm .agree {
+    float: left;
+    border-radius: 4px;
+    /*padding: 8px 16px;*/
+    /*font-size: 0.8em;*/
+    /*letter-spacing: 0.1em;*/
+    /*line-height: 1.42;*/
+    /*cursor: pointer;*/
+    /*border: 1px solid transparent;*/
+    /*-webkit-user-select: none;*/
+    /*-moz-user-select: none;*/
+    /*-ms-user-select: none;*/
+    /*-o-user-select: none;*/
+    /*-moz-appearance: none;*/
+    /*background-color: #8cb5d5;*/
+    /*color: #fff;*/
+}
+.warningMessage #warningMessageForm .disagree {
+    border-radius: 4px;
+    float: right;
+    background: red;
+}
+.warningMessageMobile {
+    /*   display: none; */
+}
+.warningMessageMobile #warningMessageForm {
+    padding: 10px;
+}
+.warningMessageMobile #warningMessageForm h1 {
+    font-size: 14px;
+}
+.warningMessageMobile #warningMessageForm p {
+    font-size: 10px;
+}
+.warningMessageMobile #warningMessageForm label {
+    font-size: 11px;
+}
+.warningMessageMobile #warningMessageForm .disagree {
+    font-size: 13px;
+    margin: 0px 1px;
+    padding: 7px 17px;
+}

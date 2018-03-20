@@ -1,0 +1,243 @@
+D:\siyosa\365 day\source web\365Days\365Days\bin\ApplicationInsights.config
+D:\siyosa\365 day\source web\365Days\365Days\bin\roslyn\csc.exe
+D:\siyosa\365 day\source web\365Days\365Days\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+D:\siyosa\365 day\source web\365Days\365Days\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+D:\siyosa\365 day\source web\365Days\365Days\bin\roslyn\Microsoft.CodeAnalysis.dll
+D:\siyosa\365 day\source web\365Days\365Days\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+D:\siyosa\365 day\source web\365Days\365Days\bin\roslyn\Microsoft.CSharp.Core.targets
+D:\siyosa\365 day\source web\365Days\365Days\bin\roslyn\Microsoft.VisualBasic.Core.targets
+D:\siyosa\365 day\source web\365Days\365Days\bin\roslyn\System.Collections.Immutable.dll
+D:\siyosa\365 day\source web\365Days\365Days\bin\roslyn\System.Reflection.Metadata.dll
+D:\siyosa\365 day\source web\365Days\365Days\bin\roslyn\vbc.exe
+D:\siyosa\365 day\source web\365Days\365Days\bin\roslyn\VBCSCompiler.exe
+D:\siyosa\365 day\source web\365Days\365Days\bin\roslyn\VBCSCompiler.exe.config
+D:\siyosa\365 day\source web\365Days\365Days\bin\365Days.dll.config
+D:\siyosa\365 day\source web\365Days\365Days\bin\365Days.dll
+D:\siyosa\365 day\source web\365Days\365Days\bin\365Days.pdb
+D:\siyosa\365 day\source web\365Days\365Days\bin\Antlr3.Runtime.dll
+D:\siyosa\365 day\source web\365Days\365Days\bin\AspNet.ScriptManager.bootstrap.dll
+D:\siyosa\365 day\source web\365Days\365Days\bin\AspNet.ScriptManager.jQuery.dll
+D:\siyosa\365 day\source web\365Days\365Days\bin\EntityFramework.dll
+D:\siyosa\365 day\source web\365Days\365Days\bin\EntityFramework.SqlServer.dll
+D:\siyosa\365 day\source web\365Days\365Days\bin\Microsoft.AI.Agent.Intercept.dll
+D:\siyosa\365 day\source web\365Days\365Days\bin\Microsoft.AI.DependencyCollector.dll
+D:\siyosa\365 day\source web\365Days\365Days\bin\Microsoft.AI.PerfCounterCollector.dll
+D:\siyosa\365 day\source web\365Days\365Days\bin\Microsoft.AI.ServerTelemetryChannel.dll
+D:\siyosa\365 day\source web\365Days\365Days\bin\Microsoft.AI.Web.dll
+D:\siyosa\365 day\source web\365Days\365Days\bin\Microsoft.AI.WindowsServer.dll
+D:\siyosa\365 day\source web\365Days\365Days\bin\Microsoft.ApplicationInsights.dll
+D:\siyosa\365 day\source web\365Days\365Days\bin\Microsoft.AspNet.FriendlyUrls.dll
+D:\siyosa\365 day\source web\365Days\365Days\bin\Microsoft.AspNet.Identity.Core.dll
+D:\siyosa\365 day\source web\365Days\365Days\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+D:\siyosa\365 day\source web\365Days\365Days\bin\Microsoft.AspNet.Identity.Owin.dll
+D:\siyosa\365 day\source web\365Days\365Days\bin\Microsoft.AspNet.Web.Optimization.WebForms.dll
+D:\siyosa\365 day\source web\365Days\365Days\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+D:\siyosa\365 day\source web\365Days\365Days\bin\Microsoft.Owin.dll
+D:\siyosa\365 day\source web\365Days\365Days\bin\Microsoft.Owin.Host.SystemWeb.dll
+D:\siyosa\365 day\source web\365Days\365Days\bin\Microsoft.Owin.Security.Cookies.dll
+D:\siyosa\365 day\source web\365Days\365Days\bin\Microsoft.Owin.Security.dll
+D:\siyosa\365 day\source web\365Days\365Days\bin\Microsoft.Owin.Security.Facebook.dll
+D:\siyosa\365 day\source web\365Days\365Days\bin\Microsoft.Owin.Security.Google.dll
+D:\siyosa\365 day\source web\365Days\365Days\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+D:\siyosa\365 day\source web\365Days\365Days\bin\Microsoft.Owin.Security.OAuth.dll
+D:\siyosa\365 day\source web\365Days\365Days\bin\Microsoft.Owin.Security.Twitter.dll
+D:\siyosa\365 day\source web\365Days\365Days\bin\Microsoft.ScriptManager.MSAjax.dll
+D:\siyosa\365 day\source web\365Days\365Days\bin\Microsoft.ScriptManager.WebForms.dll
+D:\siyosa\365 day\source web\365Days\365Days\bin\Microsoft.Web.Infrastructure.dll
+D:\siyosa\365 day\source web\365Days\365Days\bin\Newtonsoft.Json.dll
+D:\siyosa\365 day\source web\365Days\365Days\bin\Owin.dll
+D:\siyosa\365 day\source web\365Days\365Days\bin\System.Web.Optimization.dll
+D:\siyosa\365 day\source web\365Days\365Days\bin\System.Web.Providers.dll
+D:\siyosa\365 day\source web\365Days\365Days\bin\WebGrease.dll
+D:\siyosa\365 day\source web\365Days\365Days\bin\EntityFramework.xml
+D:\siyosa\365 day\source web\365Days\365Days\bin\EntityFramework.SqlServer.xml
+D:\siyosa\365 day\source web\365Days\365Days\bin\Microsoft.AI.DependencyCollector.xml
+D:\siyosa\365 day\source web\365Days\365Days\bin\Microsoft.AI.ServerTelemetryChannel.xml
+D:\siyosa\365 day\source web\365Days\365Days\bin\Microsoft.AI.Web.xml
+D:\siyosa\365 day\source web\365Days\365Days\bin\Microsoft.AI.WindowsServer.xml
+D:\siyosa\365 day\source web\365Days\365Days\bin\Microsoft.ApplicationInsights.xml
+D:\siyosa\365 day\source web\365Days\365Days\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+D:\siyosa\365 day\source web\365Days\365Days\bin\System.Web.Optimization.xml
+D:\siyosa\365 day\source web\365Days\365Days\bin\Antlr3.Runtime.pdb
+D:\siyosa\365 day\source web\365Days\365Days\bin\Newtonsoft.Json.xml
+D:\siyosa\365 day\source web\365Days\365Days\bin\Microsoft.AspNet.FriendlyUrls.xml
+D:\siyosa\365 day\source web\365Days\365Days\bin\Microsoft.AspNet.Identity.Core.xml
+D:\siyosa\365 day\source web\365Days\365Days\bin\Microsoft.AspNet.Identity.Owin.xml
+D:\siyosa\365 day\source web\365Days\365Days\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+D:\siyosa\365 day\source web\365Days\365Days\bin\System.Web.Providers.xml
+D:\siyosa\365 day\source web\365Days\365Days\bin\Microsoft.Owin.xml
+D:\siyosa\365 day\source web\365Days\365Days\bin\Microsoft.Owin.Host.SystemWeb.xml
+D:\siyosa\365 day\source web\365Days\365Days\bin\Microsoft.Owin.Security.xml
+D:\siyosa\365 day\source web\365Days\365Days\bin\Microsoft.Owin.Security.Facebook.xml
+D:\siyosa\365 day\source web\365Days\365Days\bin\Microsoft.Owin.Security.Cookies.xml
+D:\siyosa\365 day\source web\365Days\365Days\bin\Microsoft.Owin.Security.Google.xml
+D:\siyosa\365 day\source web\365Days\365Days\bin\Microsoft.Owin.Security.Twitter.xml
+D:\siyosa\365 day\source web\365Days\365Days\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+D:\siyosa\365 day\source web\365Days\365Days\bin\Microsoft.Owin.Security.OAuth.xml
+D:\siyosa\365 day\source web\365Days\365Days\obj\Debug\365Days.dll
+D:\siyosa\365 day\source web\365Days\365Days\obj\Debug\365Days.pdb
+D:\siyosa\365 day\source web\365Days\365Days\obj\Debug\365Days.csprojResolveAssemblyReference.cache
+X:\siyosa\365Days\365Days\365Days\bin\ApplicationInsights.config
+X:\siyosa\365Days\365Days\365Days\bin\roslyn\csc.exe
+X:\siyosa\365Days\365Days\365Days\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+X:\siyosa\365Days\365Days\365Days\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+X:\siyosa\365Days\365Days\365Days\bin\roslyn\Microsoft.CodeAnalysis.dll
+X:\siyosa\365Days\365Days\365Days\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+X:\siyosa\365Days\365Days\365Days\bin\roslyn\Microsoft.CSharp.Core.targets
+X:\siyosa\365Days\365Days\365Days\bin\roslyn\Microsoft.VisualBasic.Core.targets
+X:\siyosa\365Days\365Days\365Days\bin\roslyn\System.Collections.Immutable.dll
+X:\siyosa\365Days\365Days\365Days\bin\roslyn\System.Reflection.Metadata.dll
+X:\siyosa\365Days\365Days\365Days\bin\roslyn\vbc.exe
+X:\siyosa\365Days\365Days\365Days\bin\roslyn\VBCSCompiler.exe
+X:\siyosa\365Days\365Days\365Days\bin\roslyn\VBCSCompiler.exe.config
+X:\siyosa\365Days\365Days\365Days\bin\365Days.dll.config
+X:\siyosa\365Days\365Days\365Days\bin\365Days.dll
+X:\siyosa\365Days\365Days\365Days\bin\365Days.pdb
+X:\siyosa\365Days\365Days\365Days\bin\Antlr3.Runtime.dll
+X:\siyosa\365Days\365Days\365Days\bin\AspNet.ScriptManager.bootstrap.dll
+X:\siyosa\365Days\365Days\365Days\bin\AspNet.ScriptManager.jQuery.dll
+X:\siyosa\365Days\365Days\365Days\bin\EntityFramework.dll
+X:\siyosa\365Days\365Days\365Days\bin\EntityFramework.SqlServer.dll
+X:\siyosa\365Days\365Days\365Days\bin\Microsoft.AI.Agent.Intercept.dll
+X:\siyosa\365Days\365Days\365Days\bin\Microsoft.AI.DependencyCollector.dll
+X:\siyosa\365Days\365Days\365Days\bin\Microsoft.AI.PerfCounterCollector.dll
+X:\siyosa\365Days\365Days\365Days\bin\Microsoft.AI.ServerTelemetryChannel.dll
+X:\siyosa\365Days\365Days\365Days\bin\Microsoft.AI.Web.dll
+X:\siyosa\365Days\365Days\365Days\bin\Microsoft.AI.WindowsServer.dll
+X:\siyosa\365Days\365Days\365Days\bin\Microsoft.ApplicationInsights.dll
+X:\siyosa\365Days\365Days\365Days\bin\Microsoft.AspNet.FriendlyUrls.dll
+X:\siyosa\365Days\365Days\365Days\bin\Microsoft.AspNet.Identity.Core.dll
+X:\siyosa\365Days\365Days\365Days\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+X:\siyosa\365Days\365Days\365Days\bin\Microsoft.AspNet.Identity.Owin.dll
+X:\siyosa\365Days\365Days\365Days\bin\Microsoft.AspNet.Web.Optimization.WebForms.dll
+X:\siyosa\365Days\365Days\365Days\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+X:\siyosa\365Days\365Days\365Days\bin\Microsoft.Owin.dll
+X:\siyosa\365Days\365Days\365Days\bin\Microsoft.Owin.Host.SystemWeb.dll
+X:\siyosa\365Days\365Days\365Days\bin\Microsoft.Owin.Security.Cookies.dll
+X:\siyosa\365Days\365Days\365Days\bin\Microsoft.Owin.Security.dll
+X:\siyosa\365Days\365Days\365Days\bin\Microsoft.Owin.Security.Facebook.dll
+X:\siyosa\365Days\365Days\365Days\bin\Microsoft.Owin.Security.Google.dll
+X:\siyosa\365Days\365Days\365Days\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+X:\siyosa\365Days\365Days\365Days\bin\Microsoft.Owin.Security.OAuth.dll
+X:\siyosa\365Days\365Days\365Days\bin\Microsoft.Owin.Security.Twitter.dll
+X:\siyosa\365Days\365Days\365Days\bin\Microsoft.ScriptManager.MSAjax.dll
+X:\siyosa\365Days\365Days\365Days\bin\Microsoft.ScriptManager.WebForms.dll
+X:\siyosa\365Days\365Days\365Days\bin\Microsoft.Web.Infrastructure.dll
+X:\siyosa\365Days\365Days\365Days\bin\Newtonsoft.Json.dll
+X:\siyosa\365Days\365Days\365Days\bin\Owin.dll
+X:\siyosa\365Days\365Days\365Days\bin\System.Web.Optimization.dll
+X:\siyosa\365Days\365Days\365Days\bin\System.Web.Providers.dll
+X:\siyosa\365Days\365Days\365Days\bin\WebGrease.dll
+X:\siyosa\365Days\365Days\365Days\bin\EntityFramework.xml
+X:\siyosa\365Days\365Days\365Days\bin\EntityFramework.SqlServer.xml
+X:\siyosa\365Days\365Days\365Days\bin\Microsoft.AI.DependencyCollector.xml
+X:\siyosa\365Days\365Days\365Days\bin\Microsoft.AI.ServerTelemetryChannel.xml
+X:\siyosa\365Days\365Days\365Days\bin\Microsoft.AI.Web.xml
+X:\siyosa\365Days\365Days\365Days\bin\Microsoft.AI.WindowsServer.xml
+X:\siyosa\365Days\365Days\365Days\bin\Microsoft.ApplicationInsights.xml
+X:\siyosa\365Days\365Days\365Days\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+X:\siyosa\365Days\365Days\365Days\bin\System.Web.Optimization.xml
+X:\siyosa\365Days\365Days\365Days\bin\Antlr3.Runtime.pdb
+X:\siyosa\365Days\365Days\365Days\bin\Newtonsoft.Json.xml
+X:\siyosa\365Days\365Days\365Days\bin\Microsoft.AspNet.FriendlyUrls.xml
+X:\siyosa\365Days\365Days\365Days\bin\Microsoft.AspNet.Identity.Core.xml
+X:\siyosa\365Days\365Days\365Days\bin\Microsoft.AspNet.Identity.Owin.xml
+X:\siyosa\365Days\365Days\365Days\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+X:\siyosa\365Days\365Days\365Days\bin\System.Web.Providers.xml
+X:\siyosa\365Days\365Days\365Days\bin\Microsoft.Owin.xml
+X:\siyosa\365Days\365Days\365Days\bin\Microsoft.Owin.Host.SystemWeb.xml
+X:\siyosa\365Days\365Days\365Days\bin\Microsoft.Owin.Security.xml
+X:\siyosa\365Days\365Days\365Days\bin\Microsoft.Owin.Security.Facebook.xml
+X:\siyosa\365Days\365Days\365Days\bin\Microsoft.Owin.Security.Cookies.xml
+X:\siyosa\365Days\365Days\365Days\bin\Microsoft.Owin.Security.Google.xml
+X:\siyosa\365Days\365Days\365Days\bin\Microsoft.Owin.Security.Twitter.xml
+X:\siyosa\365Days\365Days\365Days\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+X:\siyosa\365Days\365Days\365Days\bin\Microsoft.Owin.Security.OAuth.xml
+X:\siyosa\365Days\365Days\365Days\obj\Debug\365Days.dll
+X:\siyosa\365Days\365Days\365Days\obj\Debug\365Days.pdb
+X:\siyosa\365Days\365Days\365Days\obj\Debug\365Days.csprojResolveAssemblyReference.cache
+D:\siyosa\365 day\source web\365Days-20171210\365Days\365Days\bin\ApplicationInsights.config
+D:\siyosa\365 day\source web\365Days-20171210\365Days\365Days\bin\roslyn\csc.exe
+D:\siyosa\365 day\source web\365Days-20171210\365Days\365Days\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+D:\siyosa\365 day\source web\365Days-20171210\365Days\365Days\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+D:\siyosa\365 day\source web\365Days-20171210\365Days\365Days\bin\roslyn\Microsoft.CodeAnalysis.dll
+D:\siyosa\365 day\source web\365Days-20171210\365Days\365Days\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+D:\siyosa\365 day\source web\365Days-20171210\365Days\365Days\bin\roslyn\Microsoft.CSharp.Core.targets
+D:\siyosa\365 day\source web\365Days-20171210\365Days\365Days\bin\roslyn\Microsoft.VisualBasic.Core.targets
+D:\siyosa\365 day\source web\365Days-20171210\365Days\365Days\bin\roslyn\System.Collections.Immutable.dll
+D:\siyosa\365 day\source web\365Days-20171210\365Days\365Days\bin\roslyn\System.Reflection.Metadata.dll
+D:\siyosa\365 day\source web\365Days-20171210\365Days\365Days\bin\roslyn\vbc.exe
+D:\siyosa\365 day\source web\365Days-20171210\365Days\365Days\bin\roslyn\VBCSCompiler.exe
+D:\siyosa\365 day\source web\365Days-20171210\365Days\365Days\bin\roslyn\VBCSCompiler.exe.config
+D:\siyosa\365 day\source web\365Days-20171210\365Days\365Days\bin\365Days.dll.config
+D:\siyosa\365 day\source web\365Days-20171210\365Days\365Days\bin\365Days.dll
+D:\siyosa\365 day\source web\365Days-20171210\365Days\365Days\bin\365Days.pdb
+D:\siyosa\365 day\source web\365Days-20171210\365Days\365Days\bin\Antlr3.Runtime.dll
+D:\siyosa\365 day\source web\365Days-20171210\365Days\365Days\bin\AspNet.ScriptManager.bootstrap.dll
+D:\siyosa\365 day\source web\365Days-20171210\365Days\365Days\bin\AspNet.ScriptManager.jQuery.dll
+D:\siyosa\365 day\source web\365Days-20171210\365Days\365Days\bin\EntityFramework.dll
+D:\siyosa\365 day\source web\365Days-20171210\365Days\365Days\bin\EntityFramework.SqlServer.dll
+D:\siyosa\365 day\source web\365Days-20171210\365Days\365Days\bin\Microsoft.AI.Agent.Intercept.dll
+D:\siyosa\365 day\source web\365Days-20171210\365Days\365Days\bin\Microsoft.AI.DependencyCollector.dll
+D:\siyosa\365 day\source web\365Days-20171210\365Days\365Days\bin\Microsoft.AI.PerfCounterCollector.dll
+D:\siyosa\365 day\source web\365Days-20171210\365Days\365Days\bin\Microsoft.AI.ServerTelemetryChannel.dll
+D:\siyosa\365 day\source web\365Days-20171210\365Days\365Days\bin\Microsoft.AI.Web.dll
+D:\siyosa\365 day\source web\365Days-20171210\365Days\365Days\bin\Microsoft.AI.WindowsServer.dll
+D:\siyosa\365 day\source web\365Days-20171210\365Days\365Days\bin\Microsoft.ApplicationInsights.dll
+D:\siyosa\365 day\source web\365Days-20171210\365Days\365Days\bin\Microsoft.AspNet.FriendlyUrls.dll
+D:\siyosa\365 day\source web\365Days-20171210\365Days\365Days\bin\Microsoft.AspNet.Identity.Core.dll
+D:\siyosa\365 day\source web\365Days-20171210\365Days\365Days\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+D:\siyosa\365 day\source web\365Days-20171210\365Days\365Days\bin\Microsoft.AspNet.Identity.Owin.dll
+D:\siyosa\365 day\source web\365Days-20171210\365Days\365Days\bin\Microsoft.AspNet.Web.Optimization.WebForms.dll
+D:\siyosa\365 day\source web\365Days-20171210\365Days\365Days\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+D:\siyosa\365 day\source web\365Days-20171210\365Days\365Days\bin\Microsoft.Owin.dll
+D:\siyosa\365 day\source web\365Days-20171210\365Days\365Days\bin\Microsoft.Owin.Host.SystemWeb.dll
+D:\siyosa\365 day\source web\365Days-20171210\365Days\365Days\bin\Microsoft.Owin.Security.Cookies.dll
+D:\siyosa\365 day\source web\365Days-20171210\365Days\365Days\bin\Microsoft.Owin.Security.dll
+D:\siyosa\365 day\source web\365Days-20171210\365Days\365Days\bin\Microsoft.Owin.Security.Facebook.dll
+D:\siyosa\365 day\source web\365Days-20171210\365Days\365Days\bin\Microsoft.Owin.Security.Google.dll
+D:\siyosa\365 day\source web\365Days-20171210\365Days\365Days\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+D:\siyosa\365 day\source web\365Days-20171210\365Days\365Days\bin\Microsoft.Owin.Security.OAuth.dll
+D:\siyosa\365 day\source web\365Days-20171210\365Days\365Days\bin\Microsoft.Owin.Security.Twitter.dll
+D:\siyosa\365 day\source web\365Days-20171210\365Days\365Days\bin\Microsoft.ScriptManager.MSAjax.dll
+D:\siyosa\365 day\source web\365Days-20171210\365Days\365Days\bin\Microsoft.ScriptManager.WebForms.dll
+D:\siyosa\365 day\source web\365Days-20171210\365Days\365Days\bin\Microsoft.Web.Infrastructure.dll
+D:\siyosa\365 day\source web\365Days-20171210\365Days\365Days\bin\Newtonsoft.Json.dll
+D:\siyosa\365 day\source web\365Days-20171210\365Days\365Days\bin\Owin.dll
+D:\siyosa\365 day\source web\365Days-20171210\365Days\365Days\bin\System.Web.Optimization.dll
+D:\siyosa\365 day\source web\365Days-20171210\365Days\365Days\bin\System.Web.Providers.dll
+D:\siyosa\365 day\source web\365Days-20171210\365Days\365Days\bin\WebGrease.dll
+D:\siyosa\365 day\source web\365Days-20171210\365Days\365Days\bin\EntityFramework.xml
+D:\siyosa\365 day\source web\365Days-20171210\365Days\365Days\bin\EntityFramework.SqlServer.xml
+D:\siyosa\365 day\source web\365Days-20171210\365Days\365Days\bin\Microsoft.AI.DependencyCollector.xml
+D:\siyosa\365 day\source web\365Days-20171210\365Days\365Days\bin\Microsoft.AI.ServerTelemetryChannel.xml
+D:\siyosa\365 day\source web\365Days-20171210\365Days\365Days\bin\Microsoft.AI.Web.xml
+D:\siyosa\365 day\source web\365Days-20171210\365Days\365Days\bin\Microsoft.AI.WindowsServer.xml
+D:\siyosa\365 day\source web\365Days-20171210\365Days\365Days\bin\Microsoft.ApplicationInsights.xml
+D:\siyosa\365 day\source web\365Days-20171210\365Days\365Days\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+D:\siyosa\365 day\source web\365Days-20171210\365Days\365Days\bin\System.Web.Optimization.xml
+D:\siyosa\365 day\source web\365Days-20171210\365Days\365Days\bin\Antlr3.Runtime.pdb
+D:\siyosa\365 day\source web\365Days-20171210\365Days\365Days\bin\Newtonsoft.Json.xml
+D:\siyosa\365 day\source web\365Days-20171210\365Days\365Days\bin\Microsoft.AspNet.FriendlyUrls.xml
+D:\siyosa\365 day\source web\365Days-20171210\365Days\365Days\bin\Microsoft.AspNet.Identity.Core.xml
+D:\siyosa\365 day\source web\365Days-20171210\365Days\365Days\bin\Microsoft.AspNet.Identity.Owin.xml
+D:\siyosa\365 day\source web\365Days-20171210\365Days\365Days\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+D:\siyosa\365 day\source web\365Days-20171210\365Days\365Days\bin\System.Web.Providers.xml
+D:\siyosa\365 day\source web\365Days-20171210\365Days\365Days\bin\Microsoft.Owin.xml
+D:\siyosa\365 day\source web\365Days-20171210\365Days\365Days\bin\Microsoft.Owin.Host.SystemWeb.xml
+D:\siyosa\365 day\source web\365Days-20171210\365Days\365Days\bin\Microsoft.Owin.Security.xml
+D:\siyosa\365 day\source web\365Days-20171210\365Days\365Days\bin\Microsoft.Owin.Security.Facebook.xml
+D:\siyosa\365 day\source web\365Days-20171210\365Days\365Days\bin\Microsoft.Owin.Security.Cookies.xml
+D:\siyosa\365 day\source web\365Days-20171210\365Days\365Days\bin\Microsoft.Owin.Security.Google.xml
+D:\siyosa\365 day\source web\365Days-20171210\365Days\365Days\bin\Microsoft.Owin.Security.Twitter.xml
+D:\siyosa\365 day\source web\365Days-20171210\365Days\365Days\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+D:\siyosa\365 day\source web\365Days-20171210\365Days\365Days\bin\Microsoft.Owin.Security.OAuth.xml
+D:\siyosa\365 day\source web\365Days-20171210\365Days\365Days\obj\Debug\365Days.dll
+D:\siyosa\365 day\source web\365Days-20171210\365Days\365Days\obj\Debug\365Days.pdb
+D:\siyosa\365 day\source web\365Days-20171210\365Days\365Days\obj\Debug\365Days.csprojResolveAssemblyReference.cache
+D:\Terry\SiYoSa - Development\website & develop\TortoiseSVN\365-days.siyosa-vn.com\365Days\obj\Debug\365Days.csprojResolveAssemblyReference.cache
+D:\Terry\SiYoSa - Development\website & develop\TortoiseSVN\365-days.siyosa-vn.com\365Days\obj\Debug\365Days.dll
+D:\Terry\SiYoSa - Development\website & develop\TortoiseSVN\365-days.siyosa-vn.com\365Days\obj\Debug\365Days.pdb
+D:\Terry\SiYoSa - Development\website & develop\TortoiseSVN\365-days.andhakaara\source on siyosa.net\365Days\obj\Debug\365Days.csprojResolveAssemblyReference.cache
+D:\Terry\SiYoSa - Development\website & develop\TortoiseSVN\365-days.andhakaara\source on siyosa.net\365Days\obj\Debug\365Days.dll
+D:\Terry\SiYoSa - Development\website & develop\TortoiseSVN\365-days.andhakaara\source on siyosa.net\365Days\obj\Debug\365Days.pdb

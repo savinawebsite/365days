@@ -1,0 +1,63 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Schema Namespace="daysModel" Alias="Self" annotation:UseStrongSpatialTypes="false" xmlns:annotation="http://schemas.microsoft.com/ado/2009/02/edm/annotation" xmlns:customannotation="http://schemas.microsoft.com/ado/2013/11/edm/customannotation" xmlns="http://schemas.microsoft.com/ado/2009/11/edm">
+  <EntityType Name="sysdiagram">
+    <Key>
+      <PropertyRef Name="diagram_id" />
+    </Key>
+    <Property Name="name" Type="String" MaxLength="128" FixedLength="false" Unicode="true" Nullable="false" />
+    <Property Name="principal_id" Type="Int32" Nullable="false" />
+    <Property Name="diagram_id" Type="Int32" Nullable="false" annotation:StoreGeneratedPattern="Identity" />
+    <Property Name="version" Type="Int32" />
+    <Property Name="definition" Type="Binary" MaxLength="Max" FixedLength="false" />
+  </EntityType>
+  <EntityType Name="tProduct">
+    <Key>
+      <PropertyRef Name="ProductId" />
+    </Key>
+    <Property Name="ProductId" Type="Int64" Nullable="false" annotation:StoreGeneratedPattern="Identity" />
+    <Property Name="ProductCode" Type="Int64" Nullable="false" />
+    <Property Name="ProductTitle" Type="String" MaxLength="150" FixedLength="false" Unicode="false" />
+  </EntityType>
+  <EntityType Name="tStatu">
+    <Key>
+      <PropertyRef Name="StatusId" />
+    </Key>
+    <Property Name="StatusId" Type="Int64" Nullable="false" annotation:StoreGeneratedPattern="Identity" />
+    <Property Name="StatusCode" Type="Int32" Nullable="false" />
+    <Property Name="StatusName" Type="String" MaxLength="50" FixedLength="false" Unicode="false" />
+    <NavigationProperty Name="tTrackings" Relationship="Self.FK_tTracking_tStatus" FromRole="tStatus" ToRole="tTracking" />
+  </EntityType>
+  <EntityType Name="tTracking">
+    <Key>
+      <PropertyRef Name="TrackId" />
+    </Key>
+    <Property Name="TrackId" Type="Int64" Nullable="false" annotation:StoreGeneratedPattern="Identity" />
+    <Property Name="CustomerId" Type="Int64" Nullable="false" />
+    <Property Name="StatusId" Type="Int64" Nullable="false" />
+    <Property Name="InsertDate" Type="DateTime" Nullable="false" Precision="3" />
+    <Property Name="ActiveDate" Type="DateTime" Precision="3" />
+    <NavigationProperty Name="tStatu" Relationship="Self.FK_tTracking_tStatus" FromRole="tTracking" ToRole="tStatus" />
+  </EntityType>
+  <Association Name="FK_tTracking_tStatus">
+    <End Role="tStatus" Type="Self.tStatu" Multiplicity="1" />
+    <End Role="tTracking" Type="Self.tTracking" Multiplicity="*" />
+    <ReferentialConstraint>
+      <Principal Role="tStatus">
+        <PropertyRef Name="StatusId" />
+      </Principal>
+      <Dependent Role="tTracking">
+        <PropertyRef Name="StatusId" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+  <EntityContainer Name="DataEntities" annotation:LazyLoadingEnabled="true">
+    <EntitySet Name="sysdiagrams" EntityType="Self.sysdiagram" />
+    <EntitySet Name="tProducts" EntityType="Self.tProduct" />
+    <EntitySet Name="tStatus" EntityType="Self.tStatu" />
+    <EntitySet Name="tTrackings" EntityType="Self.tTracking" />
+    <AssociationSet Name="FK_tTracking_tStatus" Association="Self.FK_tTracking_tStatus">
+      <End Role="tStatus" EntitySet="tStatus" />
+      <End Role="tTracking" EntitySet="tTrackings" />
+    </AssociationSet>
+  </EntityContainer>
+</Schema>

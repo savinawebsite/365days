@@ -1,0 +1,61 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Schema Namespace="daysModel.Store" Provider="System.Data.SqlClient" ProviderManifestToken="2012" Alias="Self" xmlns:store="http://schemas.microsoft.com/ado/2007/12/edm/EntityStoreSchemaGenerator" xmlns:customannotation="http://schemas.microsoft.com/ado/2013/11/edm/customannotation" xmlns="http://schemas.microsoft.com/ado/2009/11/edm/ssdl">
+  <EntityType Name="sysdiagrams">
+    <Key>
+      <PropertyRef Name="diagram_id" />
+    </Key>
+    <Property Name="name" Type="nvarchar" MaxLength="128" Nullable="false" />
+    <Property Name="principal_id" Type="int" Nullable="false" />
+    <Property Name="diagram_id" Type="int" StoreGeneratedPattern="Identity" Nullable="false" />
+    <Property Name="version" Type="int" />
+    <Property Name="definition" Type="varbinary(max)" />
+  </EntityType>
+  <EntityType Name="tProduct">
+    <Key>
+      <PropertyRef Name="ProductId" />
+    </Key>
+    <Property Name="ProductId" Type="bigint" StoreGeneratedPattern="Identity" Nullable="false" />
+    <Property Name="ProductCode" Type="bigint" Nullable="false" />
+    <Property Name="ProductTitle" Type="varchar" MaxLength="150" />
+  </EntityType>
+  <EntityType Name="tStatus">
+    <Key>
+      <PropertyRef Name="StatusId" />
+    </Key>
+    <Property Name="StatusId" Type="bigint" StoreGeneratedPattern="Identity" Nullable="false" />
+    <Property Name="StatusCode" Type="int" Nullable="false" />
+    <Property Name="StatusName" Type="varchar" MaxLength="50" />
+  </EntityType>
+  <EntityType Name="tTracking">
+    <Key>
+      <PropertyRef Name="TrackId" />
+    </Key>
+    <Property Name="TrackId" Type="bigint" StoreGeneratedPattern="Identity" Nullable="false" />
+    <Property Name="CustomerId" Type="bigint" Nullable="false" />
+    <Property Name="StatusId" Type="bigint" Nullable="false" />
+    <Property Name="InsertDate" Type="datetime" Nullable="false" />
+    <Property Name="ActiveDate" Type="datetime" />
+  </EntityType>
+  <Association Name="FK_tTracking_tStatus">
+    <End Role="tStatus" Type="Self.tStatus" Multiplicity="1" />
+    <End Role="tTracking" Type="Self.tTracking" Multiplicity="*" />
+    <ReferentialConstraint>
+      <Principal Role="tStatus">
+        <PropertyRef Name="StatusId" />
+      </Principal>
+      <Dependent Role="tTracking">
+        <PropertyRef Name="StatusId" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+  <EntityContainer Name="daysModelStoreContainer">
+    <EntitySet Name="sysdiagrams" EntityType="Self.sysdiagrams" Schema="dbo" store:Type="Tables" />
+    <EntitySet Name="tProduct" EntityType="Self.tProduct" Schema="dbo" store:Type="Tables" />
+    <EntitySet Name="tStatus" EntityType="Self.tStatus" Schema="dbo" store:Type="Tables" />
+    <EntitySet Name="tTracking" EntityType="Self.tTracking" Schema="dbo" store:Type="Tables" />
+    <AssociationSet Name="FK_tTracking_tStatus" Association="Self.FK_tTracking_tStatus">
+      <End Role="tStatus" EntitySet="tStatus" />
+      <End Role="tTracking" EntitySet="tTracking" />
+    </AssociationSet>
+  </EntityContainer>
+</Schema>

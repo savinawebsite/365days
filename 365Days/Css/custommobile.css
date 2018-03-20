@@ -1,0 +1,198 @@
+﻿
+/* responsive for iphone 7 */
+
+@media only screen and (max-width: 414px) { 
+body {
+	    background: #FFF  !important;
+}
+.size_fixed  {
+	display: none;
+}
+#MainContent_parentBuyProduct {
+	display: none !important;
+}
+
+.pricingLink {
+	margin-left: 0px !important;
+    width: 385px !important;
+	margin-top: 83px !important;
+	font-size: 14px !important;
+}
+
+.loggedInUser .userWelcom .userWelcomUsername {
+	font-size: 18px !important;
+	float: none !important;
+}
+.loggedInUser .userWelcom .userWelcomLevel {
+	font-size: 18px !important;
+	    text-align: left !important;
+}
+.loggedInUser .userWelcom p strong {
+	    font-size: 21px !important;
+}
+.loggedInUser .userWelcom {
+	margin-left: 12px !important;
+	height: 60px !important;
+}
+.currentDayAndOpenDay {
+	margin-left: 12px !important;
+	font-size: 15px !important;
+	width: 380px;
+}
+.useGuide {
+    margin-top: -120px !important;	
+	margin-left: 12px !important;
+}
+.useGuide p {
+	font-size: 15px !important;
+	margin-left: 0px !important;
+	width: 380px;
+}
+.mobileNoLoginPrice {
+	display: block;
+	margin-left: 14px !important;
+    width: 390px !important;
+    font-size: 14px !important;
+	margin-top: 25px !important;
+	height: 120px !important;
+}
+
+.loggedInUser {
+	margin-top: 15px !important;
+	height: 245px;
+}
+
+.dvInfoNoPackage {
+	margin-top: -23px !important;
+	font-size: 15px !important;
+}
+
+.dvInfoNoPackage p {
+	width: 348px;
+}
+
+.titlePriceLevel1 {width: 201px !important;}
+.priceLevel1 {width: 85px !important;}
+.btBuyLevel1 {
+	display: block !important;
+	width: 87px !important;
+	height: 74px !important;
+	float: right;
+    margin-top: -29px;
+}
+
+.titlePriceLevelFull {width: 195px !important; margin-top: 22px;}
+.priceLevelFull {width: 85px !important;}
+.btBuyLevelFull {
+	display: block !important;
+	width: 87px !important;
+	height: 74px !important;
+	float: right;
+    margin-top: -68px;
+}
+
+.btSignIn {
+	border-width: 0px;
+	margin-left: 12px !important;
+    height: 30px !important;
+    width: 67px !important;
+	border-radius: 6px !important;
+    font-size: 12px !IMPORTANT;
+	margin-bottom: 10px !important;
+}
+.logoAndhakaara {
+	margin-left: 115px;
+    margin-top: -65px;
+}
+.logoAndhakaara img {
+	width: 290px !important;
+    height: 64px !important;
+}
+
+.andhakaaraX365 { 
+	width: 414px  !important;
+	padding-top: 20px !important;	
+	margin-bottom: 0px !important;
+}
+.andhakaaraX365 .flex_content_center {
+	padding: 6px !important;
+}
+.andhakaaraX365Name {
+	width: 398px !important;
+}
+.andhakaaraX365Name div h1 {
+	font-size: 27px !important;
+    margin-top: 6px;
+}
+.andhakaaraX365Name div {
+	    font-size: 16px !important;
+}
+.dvLessions button {
+	border-radius: 16px !important;
+    width: 59px !important;
+    height: 59px !important;
+	font-size: 25px !important;
+}
+
+.postImages {
+	display: none;
+}
+
+.postImages_mobile {
+	display: block !important;
+	height: 2300px;
+}
+
+.zeroDayIframe {
+	width: 414px !important;
+}
+
+.btBackToTop {
+	background-color: #f9e684;
+    color: #000000;
+	padding-top: 11.5px;
+    padding-bottom: 7.5px;
+    padding-left: 10px;
+    padding-right: 9px;
+	border-width: 0px;
+    height: 40px !important;
+    width: 80px !important;
+	border-radius: 6px !important;
+    font-size: 12px !IMPORTANT;
+    margin-top: 5px;
+	margin-bottom: 15px;
+	margin-left: 305px !important;
+}
+
+}
+
+@media only screen and (max-width: 375px) { 
+.andhakaaraX365 { width: 398px  !important;}
+.dvLessions button {
+    width: 56px !important;
+    height: 56px !important;
+}
+.logoAndhakaara img {
+	width: 280px !important;
+    height: 59px !important;
+}
+.btSignIn {
+	margin-left: 12px !important;
+}
+.mobileNoLoginPrice {
+	width: 374px !important;
+}
+.pricingLink {
+    width: 375px !important;
+}
+.zeroDayIframe {
+	width: 398px !important;
+}
+}
+
+@media only screen and (max-width: 360px) { 
+
+}
+
+/* end responsive for mobile */
+
